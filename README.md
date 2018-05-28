@@ -15,7 +15,7 @@ Examples:
 If the strategies is predicted ACTIVE text is shown on the screen ->
 
 ![CANNON RUSH](https://thumbs.gfycat.com/GoodDiligentCreature-max-1mb.gif)
-![ZERGLING RUSH](https://image.ibb.co/dShWiJ/ezgif_com_optimize.gif)
+<img src="https://s1.gifyu.com/images/zergling-rush.gif" width="280px" height="210px" />
 
 **Note:** That many more can be added later via manual annotation (process will be described later).
 
