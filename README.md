@@ -15,7 +15,7 @@ Examples:
 If the strategies is predicted ACTIVE text is shown on the screen ->
 
 ![CANNON RUSH](https://thumbs.gfycat.com/GoodDiligentCreature-max-1mb.gif)
-<img src="https://media.giphy.com/media/1ivFjgRhXDg9A9SPaA/giphy.gif" width="280" height="210"/>
+![ZERGLING RUSH](https://image.ibb.co/dShWiJ/ezgif_com_optimize.gif)
 
 **Note:** That many more can be added later via manual annotation (process will be described later).
 
@@ -23,14 +23,14 @@ If the strategies is predicted ACTIVE text is shown on the screen ->
 Is a Python server used primarily as a prediction machine.
 
 ## BWSmallBrother
-Is a small Java module that can read actions from the game, and sent it to the server.
+Is a small Java client that can read actions from the game, and send it to the server.
 
 
-![Architecture](https://media.giphy.com/media/1ivFjgRhXDg9A9SPaA/giphy.gif)
+![Architecture](https://github.com/tomasvarga/BWBrothers/blob/master/arch.jpg?raw=true)
 
 
 
-**More information can be found here -> *UserManual.pdf*, *SystemManual.pdf***
+**More information can be found in -> *UserManual.pdf*, *SystemManual.pdf***
 
 ## Getting Started
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
@@ -122,7 +122,7 @@ java -jar BWSmallBrother-v1.jar
 
 4. Launch the game with ChaosLauncher
 
-**Note:** How to setup BWSmallBrother with IDE (ECLIPSE) and without is also detailed in UserGuide.
+**Note:** How to setup BWSmallBrother with IDE (ECLIPSE) and without is also detailed in UserManual.
 
 
 ## FAQ
@@ -131,7 +131,7 @@ You need to install JRE with 32-bit support.
 
 ## Author
 
-* **Tomas Varga** - *Initial work*
+* **Tomáš Varga** - *Initial work*
 
 
 ## Paper
