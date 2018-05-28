@@ -12,7 +12,7 @@ Included strategies that can be predicted in this project:
 4. 3-GATE
 
 Examples:
-If the strategies is predicted ACTIVE text is shown on the screen ->
+If a strategy is predicted "ACTIVE" is shown on the screen:
 
 ![CANNON RUSH](https://thumbs.gfycat.com/GoodDiligentCreature-max-1mb.gif)
 <img src="https://s1.gifyu.com/images/zergling-rush.gif" width="280px" height="210px" />
@@ -30,7 +30,7 @@ Is a small Java client that can read actions from the game, and send it to the s
 
 
 
-**More information can be found in -> *UserManual.pdf*, *SystemManual.pdf***
+**More information can be found inside: *UserManual.pdf*, *SystemManual.pdf*.**
 
 ## Getting Started
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
@@ -64,7 +64,7 @@ A step by step series of examples that tell you how to get a development env run
 
 1. Located variable with IP address in Python script app.py, and change it to the IP address of your computer.
 ```
-ip = ”192.168.1.21”
+ip = "192.168.1.21"
 ```
 
 2.  After that, launch the server with command from the terminal:
@@ -81,7 +81,7 @@ http:/192.168.1.21:8080/train
 
 4. Test the server by visiting web page:
 ```
-your-ip-address/test.
+your-ip-address:your_port/test.
 ```
 
 It should generate following JSON output:
@@ -100,7 +100,7 @@ Skip to the part -> *How to setup BWSmallBrother*
 Optional step:
 5. Removing all the models is possible by visiting this web page:  
 ```
-your-ip/wipe
+your-ip:your_port/wipe
 ```
 This will remove all the models and step 3. has to be repeated to create new models.
 
