@@ -14,7 +14,7 @@ Included strategies that can be predicted in this project:
 Examples:
 If the strategies is predicted ACTIVE text is shown on the screen ->
 ![CANNON RUSH](https://thumbs.gfycat.com/GoodDiligentCreature-max-1mb.gif)
-![ZERGLING RUSH](https://media.giphy.com/media/1ivFjgRhXDg9A9SPaA/giphy.gif){:height="210px" width="280px"}
+![ZERGLING RUSH](https://media.giphy.com/media/1ivFjgRhXDg9A9SPaA/giphy.gif =280x210)
 
 
 **Note:** That many more can be added later via manual annotation (process will be described later).
