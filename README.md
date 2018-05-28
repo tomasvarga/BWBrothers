@@ -107,20 +107,20 @@ This will remove all the models and step 3. has to be repeated to create new mod
 #### How to setup BWSmallBrother without IDE
 
 1. Install [BWAPI-4.1.2](https://github.com/bwapi/bwapi/releases/download/v4.1.2/BWAPI_412_Setup.exe)
-2. Change in the *settings.ini*:
-
+2. Copy *settings.ini* to C:\Users\YourProfileName for example: C:\Users\Tomas\
+3. Change in the *settings.ini*: 
 ```
 address = your_ip
 port = your_port
-name = your_profile_name
+name = your_starcraft_profile_name
 ```
 
-3. Use cmd/terminal and go to the folder with BWSmallBrother-v1.jar, and launch it with command:
+4. Use cmd/terminal and go to the folder with BWSmallBrother-v1.jar, and launch it with command:
 ```
 java -jar BWSmallBrother-v1.jar
 ```
 
-4. Launch the game with ChaosLauncher
+5. Launch the game with ChaosLauncher
 
 **Note:** How to setup BWSmallBrother with IDE (ECLIPSE) and without is also detailed in UserManual.
 
