@@ -131,7 +131,7 @@ You need to install JRE with 32-bit support.
 
 ## Author
 
-* **Tomáš Varga** - *Initial work*
+* **Tomáš Varga**
 
 
 ## Paper
