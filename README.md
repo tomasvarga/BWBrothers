@@ -14,7 +14,7 @@ Included strategies that can be predicted in this project:
 Examples:
 If the strategies is predicted ACTIVE text is shown on the screen ->
 ![CANNON RUSH](https://thumbs.gfycat.com/GoodDiligentCreature-max-1mb.gif)
-![ZERGLING RUSH](https://media.giphy.com/media/1ivFjgRhXDg9A9SPaA/giphy.gif)
+![ZERGLING RUSH](https://media.giphy.com/media/1ivFjgRhXDg9A9SPaA/giphy.gif){:height="210px" width="280px"}
 
 
 **Note:** That many more can be added later via manual annotation (process will be described later).
@@ -142,6 +142,7 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ## Acknowledgments
 
+* [Department of Cybernetics and Artificial Intelligence](https://kkui.fei.tuke.sk/info/english)
 * BWAPI community
 * [SSCAIT - Student StarCraft AI Tournament & Ladder](https://sscaitournament.com)
 * [Bot Juno](https://liquipedia.net/starcraft/Juno)
