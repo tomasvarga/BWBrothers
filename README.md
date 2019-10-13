@@ -136,6 +136,7 @@ You need to install JRE with 32-bit support.
 
 ## Paper
 Work on this project was also published as a paper for DISA 2018.
+https://doi.org/10.1109/disa.2018.8490528
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
